@@ -1,1 +1,1 @@
-# Music-v1
+# start cmd python bot/bot.py
